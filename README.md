@@ -4,7 +4,7 @@
 
   - I'm 19 years old
   - Im a french student at Epitech Mulhouse
-  - I'm currently doing the "Programme Drande École"
+  - I'm currently doing the "Programme Grande École"
   - I'm actually doing an internship for my second year at Epitech
 
 ## Language
