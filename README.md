@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**YanisWITH/YanisWITH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
+  - I'm 19 years old
+  - Im a french student at Epitech Mulhouse
+  - I'm currently doing the "Programme Drande École"
+  - I'm actually doing an internship for my second year at Epitech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Language
+
+This is a ranking of my knowledge on the language I use:
+1) C
+2) C#
+3) C++
+4) Js
+5) Rust
+
+## I hope you liked my profile!
